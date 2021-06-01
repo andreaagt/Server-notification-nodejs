@@ -1,4 +1,4 @@
-# Expo-notification
+# Server-notification-nodejs
 
 This server send a notification when a post method (posting an ExpoToken) is listened
 
