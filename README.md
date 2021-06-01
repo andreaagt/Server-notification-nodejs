@@ -1,5 +1,7 @@
 # Expo-notification
 
+This server send a notification when a post method (posting an ExpoToken) is running
+
 ## To exec the server
 
 Requirements
