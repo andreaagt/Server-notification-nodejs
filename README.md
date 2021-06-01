@@ -1,6 +1,6 @@
 # Expo-notification
 
-This server send a notification when a post method (posting an ExpoToken) is running
+This server send a notification when a post method (posting an ExpoToken) is listened
 
 ## To exec the server
 
@@ -13,8 +13,8 @@ Requirements
 First clone the repository and change the directory
 
 ```
-$ git clone https://github.com/andreaagt/Expo-notification.git
-$ cd Expo-notification
+$ git clone https://github.com/andreaagt/Server-notification-nodejs.git
+$ cd Server-notification-nodejs
 ```
 
 Save and install all packages
